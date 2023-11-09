@@ -7,14 +7,13 @@
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
         </div>
         <div>
-                 <div>
-                <h3>Back-end</h3>
+         <div>    
+            <h3>Back-end</h3>    
                 <img align="center" title="LUANSSA-COLDFUSION" alt="LUANSSA-COLDFUSION" height="30" width="40" src="https://github.com/LUANSSA/LUANSSA/blob/main/cf.svg">
                 <img align="center" title="LUANSSA-NODEJS" alt="LUANSSA-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
                 <img align="center" title="LUANSSA-MYSQL" alt="LUANSSA-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
             </div>
-        </div>
-            
+        </div>   
     </div>
     <div>
         <div style="display: inline">
