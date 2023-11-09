@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Luan Souza.
 
-<div style="display:grid; grid-template-column: 1fr 1fr;">
+<div>
     <div>
         <a href="https://github.com/LUANSSA">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
