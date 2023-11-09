@@ -1,11 +1,10 @@
 ### Olá, Eu sou o Luan Souza.
 
- <div>
+<div>
   <a href="https://github.com/LUANSSA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-   
-##
+
 <div style="display: inline_block"><br>
   <h3>Back-end</h3>
   <img align="center" title="LUANSSA-COLDFUSION" alt="LUANSSA-COLDFUSION" height="30" width="40" src="https://github.com/LUANSSA/LUANSSA/blob/main/cf.svg">
