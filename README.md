@@ -4,7 +4,6 @@
   <a href="https://github.com/LUANSSA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-##
 <div style="display: inline">
   <h3>Back-end</h3>
   <img align="center" title="LUANSSA-COLDFUSION" alt="LUANSSA-COLDFUSION" height="30" width="40" src="https://github.com/LUANSSA/LUANSSA/blob/main/cf.svg">
@@ -15,8 +14,6 @@
   <img align="center" title="LUANSSA-HTML" alt="LUANSSA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="LUANSSA-CSS" alt="LUANSSA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-##
-    
 <div> 
   <a href = "mailto:alunoluansenai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lualuanssa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
