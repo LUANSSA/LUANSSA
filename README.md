@@ -1,11 +1,11 @@
 ### Olá, Eu sou o Luan Souza.
 
-<div style="display:flex;">
-    <div style="flex:1;">
+<div style="display:flex">
+    <div style="flex:1">
         <a href="https://github.com/LUANSSA">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
     </div>
-    <div style="flex:1;">
+    <div style="flex:1">
         <div style="display: inline">
             <div>
                 <h3>Back-end</h3>
