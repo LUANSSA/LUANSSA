@@ -8,9 +8,12 @@
 
 <div align="center">
     <h3>Back-end</h3>
-    <img align="center" title="ColdFusion" alt="ColdFusion" height="30" width="40" src="https://github.com/LUANSSA/LUANSSA/blob/main/cf.svg">
+    <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" title="Spring Boot" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" title="ColdFusion" alt="ColdFusion" height="30" width="40" src="https://github.com/LUANSSA/LUANSSA/blob/main/cf.svg">
 </div>
 
 <div align="center">
