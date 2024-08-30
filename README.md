@@ -8,21 +8,58 @@
 
 <div align="center">
     <h3>Back-end</h3>
-    <img align="center" title="Java" alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" title="Spring Boot" alt="Spring Boot" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" title="Node.js" alt="Node.js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" title="PostgreSQL" alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" title="MySQL" alt="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" title="ColdFusion" alt="ColdFusion" height="45" width="55" src="https://github.com/LUANSSA/LUANSSA/blob/main/cf.svg">
-    <img align="center" title="Thymeleaf" alt="Thymeleaf" height="45" width="55" src="https://www.thymeleaf.org/doc/images/thymeleaf.png">
-    <img align="center" title="Express" alt="Express" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div style="margin: 10px;">
+            <img title="Java" alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+            <p style="text-align: center;">Java</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="Spring Boot" alt="Spring Boot" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+            <p style="text-align: center;">Spring Boot</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="Node.js" alt="Node.js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+            <p style="text-align: center;">Node.js</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="PostgreSQL" alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+            <p style="text-align: center;">PostgreSQL</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="MySQL" alt="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+            <p style="text-align: center;">MySQL</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="ColdFusion" alt="ColdFusion" height="45" width="55" src="https://github.com/LUANSSA/LUANSSA/blob/main/cf.svg">
+            <p style="text-align: center;">ColdFusion</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="Thymeleaf" alt="Thymeleaf" height="45" width="55" src="https://www.thymeleaf.org/doc/images/thymeleaf.png">
+            <p style="text-align: center;">Thymeleaf</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="Express" alt="Express" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+            <p style="text-align: center;">Express</p>
+        </div>
+    </div>
 </div>
 
 <div align="center">
     <h3>Front-end</h3>
-    <img align="center" title="JavaScript" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" title="HTML5" alt="HTML5" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" title="CSS3" alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div style="margin: 10px;">
+            <img title="JavaScript" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            <p style="text-align: center;">JavaScript</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="HTML5" alt="HTML5" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <p style="text-align: center;">HTML5</p>
+        </div>
+        <div style="margin: 10px;">
+            <img title="CSS3" alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <p style="text-align: center;">CSS3</p>
+        </div>
+    </div>
 </div>
 
 ##
