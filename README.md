@@ -35,6 +35,10 @@
       <img title="Express" alt="Express" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
       <p>Express</p>
     </td>
+    <td align="center">
+      <img title="Next.js" alt="Next.js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <p>Next.js</p>
+    </td>
   </tr>
 </table>
 
