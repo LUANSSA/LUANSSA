@@ -36,8 +36,8 @@
       <p>Express</p>
     </td>
     <td align="center">
-      <img title="Next.js" alt="Next.js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-      <p>Next.js</p>
+      <img title="Nest.js" alt="Nest.js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+      <p>Nest.js</p>
     </td>
   </tr>
 </table>
