@@ -36,7 +36,7 @@
       <p>Express</p>
     </td>
     <td align="center">
-      <img title="Nest.js" alt="Nest.js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+      <img title="Nest.js" alt="Nest.js" height="45" width="55" src="https://nestjs.com/img/logo-small.svg">
       <p>Nest.js</p>
     </td>
   </tr>
