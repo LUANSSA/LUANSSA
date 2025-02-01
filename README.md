@@ -68,7 +68,7 @@
       <p>Python</p>
     </td>
     <td align="center">
-      <img title="Flet" alt="Flet" height="45" width="55" src="https://github.com/LUANSSA/LUANSSA/blob/main/flet-logo.svg">
+      <img title="Flet" alt="Flet" height="45" width="55" src="https://github.com/LUANSSA/LUANSSA/blob/main/logo-flet.svg">
       <p>Flet</p>
     </td>
   </tr>
