@@ -60,6 +60,20 @@
   </tr>
 </table>
 
+<h3>Desenvolvimento Multiplataforma</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img title="Python" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <p>Python</p>
+    </td>
+    <td align="center">
+      <img title="Flet" alt="Flet" height="45" width="55" src="https://github.com/LUANSSA/LUANSSA/blob/main/flet-logo.svg">
+      <p>Flet</p>
+    </td>
+  </tr>
+</table>
+
 <figure align="center">
     <a href="https://github.com/LUANSSA">
         <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
