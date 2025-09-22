@@ -74,12 +74,11 @@
   </tr>
 </table>
 
-<!-- <figure align="center">
+<figure align="center">
     <a href="https://github.com/LUANSSA">
         <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
     </a>
 </figure>
--->
 
 ### Sobre Mim
 
