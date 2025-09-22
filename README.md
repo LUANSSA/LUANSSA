@@ -74,12 +74,6 @@
   </tr>
 </table>
 
-<figure align="center">
-    <a href="https://github.com/LUANSSA">
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUANSSA&layout=compact&langs_count=16&theme=dracula"/>
-    </a>
-</figure>
-
 ### Sobre Mim
 
 Olá! Sou Luan Souza, um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras. Com experiência tanto no front-end quanto no back-end, utilizo JavaScript, HTML5, CSS3, Vue.js, Alpine.js e Thymeleaf para construir interfaces dinâmicas e responsivas. No back-end, trabalho com Java, Spring Boot, Node.js, Express, PostgreSQL e MySQL para desenvolver aplicações robustas e eficientes. Estou sempre em busca de aprimorar minhas habilidades e entregar projetos de alta qualidade, aplicando as melhores práticas e tecnologias disponíveis.
