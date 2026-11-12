@@ -28,6 +28,10 @@
       <p>ColdFusion</p>
     </td>
     <td align="center">
+      <img title="Python" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <p>Python</p>
+    </td>
+    <td align="center">
       <img title="Thymeleaf" alt="Thymeleaf" height="45" width="55" src="https://www.thymeleaf.org/doc/images/thymeleaf.png">
       <p>Thymeleaf</p>
     </td>
@@ -56,20 +60,6 @@
     <td align="center">
       <img title="CSS3" alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <p>CSS3</p>
-    </td>
-  </tr>
-</table>
-
-<h3>Desenvolvimento Multiplataforma</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img title="Python" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <p>Python</p>
-    </td>
-    <td align="center">
-      <img title="Flet" alt="Flet" height="45" width="55" src="https://github.com/LUANSSA/LUANSSA/blob/main/logo-flet.svg">
-      <p>Flet</p>
     </td>
   </tr>
 </table>
